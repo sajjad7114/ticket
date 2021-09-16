@@ -784,7 +784,7 @@ def to_login():
     pass_root.mainloop()
 
 
-admin = User("Mahsa", "71147114")
+admin = User("Sajjad", "71147114")
 admin.become_admin()
 users = list()
 users.append(admin)
